@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77969" started-at="2022-10-20T12:25:42Z" finished-at="2022-10-20T12:27:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77969" started-at="2022-10-20T12:25:42Z" finished-at="2022-10-20T12:27:00Z">
+      <class name="devsena.firstasestudy">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:devsena.firstasestudy@6b2fad11]" name="beforetest" is-config="true" duration-ms="45208" started-at="2022-10-20T17:55:42Z" finished-at="2022-10-20T17:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:devsena.firstasestudy@6b2fad11]" name="Testcase1" duration-ms="2439" started-at="2022-10-20T17:56:27Z" finished-at="2022-10-20T17:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase2()[pri:1, instance:devsena.firstasestudy@6b2fad11]" name="Testcase2" duration-ms="2991" started-at="2022-10-20T17:56:30Z" finished-at="2022-10-20T17:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+        <test-method status="PASS" signature="Testcase3()[pri:2, instance:devsena.firstasestudy@6b2fad11]" name="Testcase3" duration-ms="24221" started-at="2022-10-20T17:56:33Z" finished-at="2022-10-20T17:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:devsena.firstasestudy@6b2fad11]" name="AT" is-config="true" duration-ms="3014" started-at="2022-10-20T17:56:57Z" finished-at="2022-10-20T17:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- devsena.firstasestudy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
